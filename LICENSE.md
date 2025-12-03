@@ -1,103 +1,97 @@
 # Fai’s Mythical Monstrosities Proprietary License  
-### Version 1.1 - 2025
+### Version 1.2 — 2025
 
 **Copyright © 2025 Fai’s Mythical Monstrosities.  
 All Rights Reserved.**
 
-This License governs the use of **Fai’s Mythical Monstrosities** (“the Work”), including but not limited to all code, assets, models, textures, animations, data files, documentation, concepts, and any derivative content included within or distributed alongside the Work.
+This License applies to **Fai’s Mythical Monstrosities** (“the Work”), including all code, assets, models, textures, animations, data files, concepts, and any material distributed with the Work.
 
-By downloading, installing, accessing, or using the Work, **you agree to be bound by this License**.
+By downloading, installing, or using the Work, you agree to the terms below.
 
 ---
 
 ## 1. Definitions
 
-- **“Owner”** refers to **Fai**, the creator and copyright holder.  
-- **“Work”** refers to all content included in the mod/datapack download, in any form.  
-- **“Commercial Use”** includes any activity that generates revenue, including but not limited to monetized servers, pay-to-access systems, paid modpacks, server donations, or ad-supported redistribution.  
-- **“Public Server”** means any multiplayer server accessible to players beyond your personal private gameplay.
+- **Owner** — *Faixi*, the creator and copyright holder.  
+- **Work** — all files, assets, and content included with this mod/datapack.  
+- **Commercial Use** — any use that involves payment, revenue, donations, ads, or monetization.  
+- **Public Server** — any multiplayer server accessible to people outside your own private gameplay.
 
 ---
 
-## 2. Allowed Uses (Free License)
+## 2. What You Are Allowed To Do
 
-You are granted a limited, non-exclusive, non-transferable license to:
+You may:
 
 - Download the Work.  
-- Install and use the Work for **personal, private, non-commercial** gameplay.
+- Install and use it for **personal, private, non-commercial** gameplay.
 
-No other rights are granted.
-
----
-
-## 3. Prohibited Uses Without Purchasing a License
-
-You **may NOT**, under any circumstances, without explicit written permission or a purchased license:
-
-- Use the Work on **public servers**.  
-- Use the Work for **commercial purposes** of any form.  
-- Redistribute, rehost, or reupload the Work or any part of it.  
-- Include the Work in **any modpack**, public or private.  
-- Modify, edit, adapt, or create derivative works from the Work.  
-- Extract assets, models, code, textures, concepts, or data for any purpose.  
-- Claim credit, ownership, authorship, or partial authorship.  
-- Use the Work in AI datasets, training, generation, or derivative tools.
+These permissions are limited and non-transferable.
 
 ---
 
-## 4. Credit Requirement
+## 3. What You Are *Not* Allowed To Do (Without Permission)
 
-All allowed use must credit the Owner exactly as:
+You **may not**, under any circumstance, unless you have written permission or a purchased license:
 
-> **“Created by Faixi”**
-
-This credit must appear clearly wherever the Work is showcased or used publicly (e.g., mod lists, server info, video descriptions, or pack descriptions), if such use is otherwise permitted by this License or by a separate agreement.
-
----
-
-## 5. Termination
-
-This License automatically and immediately terminates if:
-
-- You violate **any** of the prohibited uses.  
-- You attempt to circumvent the License terms.  
-- You remove or alter copyright statements.
-
-Upon termination, you must:
-
-- Delete all copies of the Work in your possession or control.  
-- Cease all use of the Work immediately.
-
-The Owner may pursue further legal action in cases of misuse or infringement.
+- Use the Work on a **public** or **monetized** server.  
+- Use the Work for **any commercial purpose**.  
+- Redistribute, reupload, or rehost the Work or any part of it.  
+- Include the Work in any **modpack** without explicit approval.  
+- Edit, modify, or create derivative works from the Work.  
+- Extract or reuse assets, models, code, textures, or data.  
+- Claim ownership or authorship of any part of the Work.  
+- Use the Work in AI datasets, training, generation, or similar systems.
 
 ---
 
-## 6. Liability and Warranty
+## 4. Credit
 
-The Work is provided **“as is”**, without warranties of any kind, express or implied.  
-The Owner is **not responsible** for:
+If you are using the Work in any allowed way and credit is appropriate, you must credit the Owner exactly as:
+
+**“Created by Faixi”**
+
+---
+
+## 5. Termination of Permission
+
+Your permission to use the Work ends immediately if:
+
+- You break **any** of the rules above.  
+- You try to bypass or ignore the License.  
+- You remove copyright notices.
+
+If terminated, you must delete the Work and stop using it entirely.  
+The Owner may take further action in cases of copyright infringement.
+
+---
+
+## 6. No Warranty
+
+The Work is provided *“as is.”*  
+The Owner is not responsible for:
 
 - Data loss  
-- Game crashes  
+- Crashes  
 - Compatibility issues  
-- Damages or losses resulting from installation or usage of the Work
+- Damage caused by the Work in any form
 
-You use the Work at your own risk.
+Use the Work at your own risk.
 
 ---
 
-## 7. Commercial & Server Licensing
+## 7. Paid Licenses (Commercial / Server Use)
 
-For **public server usage** or **commercial usage** of any kind, a **separate paid license** is required.
+Running the Work on a public server or using it commercially requires a **paid license** or written permission from the Owner.
 
-To inquire about commercial or server licensing, contact the Owner (Faixi) through the official channels where the Work is distributed (e.g., GitHub, Modrinth, CurseForge, or other linked profiles).
+To purchase a license, contact **Faixi** through the platforms where the Work is officially distributed (e.g., GitHub, Modrinth, or other linked profiles).
 
 ---
 
 ## 8. Governing Law
 
-This License is governed by the laws of **Saudi Arabia**, unless the Owner explicitly specifies otherwise in a separate written agreement.
+This License is governed by the laws of **Saudi Arabia**, unless otherwise agreed in writing.
 
 ---
 
-By downloading, installing, or using **Fai’s Mythical Monstrosities**, you acknowledge that you have read, understood, and agreed to this License.
+By using **Fai’s Mythical Monstrosities**, you confirm that you have read and agreed to this License.
