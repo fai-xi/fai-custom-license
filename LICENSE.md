@@ -1,5 +1,5 @@
 # Fai’s Mythical Monstrosities Proprietary License  
-### Version 1.1 — 2025
+### Version 1.1 - 2025
 
 **Copyright © 2025 Fai’s Mythical Monstrosities.  
 All Rights Reserved.**
