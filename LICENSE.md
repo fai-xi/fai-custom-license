@@ -12,7 +12,7 @@ By downloading, installing, accessing, or using the Work, **you agree to be boun
 
 ## 1. Definitions
 
-- **“Owner”** refers to **Faixi**, the creator and copyright holder.  
+- **“Owner”** refers to **Fai**, the creator and copyright holder.  
 - **“Work”** refers to all content included in the mod/datapack download, in any form.  
 - **“Commercial Use”** includes any activity that generates revenue, including but not limited to monetized servers, pay-to-access systems, paid modpacks, server donations, or ad-supported redistribution.  
 - **“Public Server”** means any multiplayer server accessible to players beyond your personal private gameplay.
