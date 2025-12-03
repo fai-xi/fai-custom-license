@@ -1,10 +1,10 @@
 # Fai’s Mythical Monstrosities Proprietary License  
-### Version 1.2 — 2025
+### Version 1.2 - 2025
 
 **Copyright © 2025 Fai’s Mythical Monstrosities.  
 All Rights Reserved.**
 
-This License applies to **Fai’s Mythical Monstrosities** (“the Work”), including all code, assets, models, textures, animations, data files, concepts, and any material distributed with the Work.
+This License applies to **Fai’s Mythical Monstrosities** ("the Work"), including all code, assets, models, textures, animations, data files, concepts, and any material distributed with the Work.
 
 By downloading, installing, or using the Work, you agree to the terms below.
 
@@ -12,10 +12,10 @@ By downloading, installing, or using the Work, you agree to the terms below.
 
 ## 1. Definitions
 
-- **Owner** — *Faixi*, the creator and copyright holder.  
-- **Work** — all files, assets, and content included with this mod/datapack.  
-- **Commercial Use** — any use that involves payment, revenue, donations, ads, or monetization.  
-- **Public Server** — any multiplayer server accessible to people outside your own private gameplay.
+- **Owner** - *Faixi*, the creator and copyright holder.  
+- **Work** - all files, assets, and content included with this mod/datapack.  
+- **Commercial Use** - any use that involves payment, revenue, donations, ads, or monetization.  
+- **Public Server** - any multiplayer server accessible to people outside your own private gameplay.
 
 ---
 
@@ -32,7 +32,7 @@ These permissions are limited and non-transferable.
 
 ## 3. What You Are *Not* Allowed To Do (Without Permission)
 
-You **may not**, under any circumstance, unless you have written permission or a purchased license:
+You may **not**, under any circumstance, unless you have written permission or a purchased license:
 
 - Use the Work on a **public** or **monetized** server.  
 - Use the Work for **any commercial purpose**.  
@@ -49,7 +49,7 @@ You **may not**, under any circumstance, unless you have written permission or a
 
 If you are using the Work in any allowed way and credit is appropriate, you must credit the Owner exactly as:
 
-**“Created by Faixi”**
+**"Created by Faixi"**
 
 ---
 
@@ -68,7 +68,7 @@ The Owner may take further action in cases of copyright infringement.
 
 ## 6. No Warranty
 
-The Work is provided *“as is.”*  
+The Work is provided *"as is."*  
 The Owner is not responsible for:
 
 - Data loss  
