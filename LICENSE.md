@@ -84,7 +84,7 @@ Use the Work at your own risk.
 
 Running the Work on a public server or using it commercially requires a **paid license** or written permission from the Owner.
 
-To purchase a license, contact **Faixi** through the platforms where the Work is officially distributed (e.g., GitHub, Modrinth, or other linked profiles).
+To purchase a license, contact **Faixi** through the platforms where the Work is officially distributed (e.g., Discord, Modrinth, or other linked profiles).
 
 ---
 
